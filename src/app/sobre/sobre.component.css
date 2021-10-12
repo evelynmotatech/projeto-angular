@@ -1,11 +1,10 @@
-.logo {
-  width: 80px;
-  height: 80px;
-}
-
 hr {
   color: rgb(200, 200, 35);
   height: 1px;
+}
+
+#introducao {
+  margin-top: 50px;
 }
 
 h1 {
@@ -41,38 +40,4 @@ p {
   text-align: justify;
   font-family: Georgia, Times, 'Times New Roman', serif;
   line-height: 20px;
-}
-
-#imgAngular {
-  background-image: url(../assets/angular4.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 350px;
-}
-
-#introducao {
-  margin-top: 50px;
-  height: 470px;
-}
-
-nav div ul li a {
-  color: black;
-  font-size: 1.15rem;
-  text-transform: uppercase;
-}
-
-nav div ul li a:hover {
-  color: #E23237;
-}
-
-#btn-top {
-  z-index: 500;
-  position: fixed;
-  bottom: 50px;
-  right: 15px;
-}
-
-#btn-top img {
-  width: 50px;
-  height: 50px;
 }
